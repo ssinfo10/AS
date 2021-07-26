@@ -16,11 +16,7 @@
     <sonar.login>43c2ea8e5bd99535bfcba1bad882b0e732dff98a</sonar.login>
   </properties>
   <dependencies>
-  <dependency>
-  <groupId>com.icici</groupId>
-  <artifactId>atmproject</artifactId>
-  <version>1.0</version>
-</dependency>
+  
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
