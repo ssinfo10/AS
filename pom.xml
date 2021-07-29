@@ -10,10 +10,10 @@
   <properties>
   
   <spring.version></spring.version>
-  <sonar.host.url>http://13.233.151.26:9000/</sonar.host.url>
+  <sonar.host.url>http://13.235.86.158:9000/</sonar.host.url>
   <!-- <sonar.login>admin</sonar.login> 
   <sonar.password>admin</sonar.password> -->
-    <sonar.login>43c2ea8e5bd99535bfcba1bad882b0e732dff98a</sonar.login>
+    <sonar.login>273762fcedf8d16d2f5f3ffd49bcba75ede37ccb</sonar.login>
   </properties>
   <dependencies>
   
@@ -29,12 +29,12 @@
 <repository>
    <id>nexus</id>
    <name>internetbanking-webapp</name>
-   <url>http://52.66.250.193:8081/repository/releases-01/</url>
+   <url>http://13.235.87.194:8081/repository/Release-INB/</url>
   </repository>
   <snapshotRepository>
   <id>nexus</id>
   <name>internetbanking-webapp</name>
-  <url>http://52.66.250.193:8081/repository/snapshot-01/</url>
+  <url>http://13.235.87.194:8081/repository/Snapshot-INB/</url>
   </snapshotRepository>
   </distributionManagement>
 	
